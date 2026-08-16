@@ -1,4 +1,4 @@
-☕ Kaapi — Tanglish AI Assistant
+☕ "Kaapi" — Tanglish AI Assistant
 
 A friendly AI chat assistant that speaks Tanglish (Tamil written in English script, mixed naturally with English) — the way people actually talk in Coimbatore, Chennai, and across Tamil Nadu.
 
